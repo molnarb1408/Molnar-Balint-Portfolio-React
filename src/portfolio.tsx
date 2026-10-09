@@ -225,7 +225,7 @@ const workExperiences = {
       role: "Logisztikai Szakértő",
       company: "Autoliv Kft.",
       companylogo: new URL("./assets/images/autolivLogo.webp", import.meta.url).href,
-      date: "2024-01 – 2024-02",
+      date: "2024-01 – 2024-05",
       desc: "Logisztikai szakértőként dolgoztam az Autoliv Kft. sopronkövesdi telephelyén, az autóipari beszállítói szektorban.",
       descBullets: [
         "Bizonyított képesség a gyors tanulásra és az új helyzetekhez való alkalmazkodásra",
